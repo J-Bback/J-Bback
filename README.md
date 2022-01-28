@@ -33,5 +33,3 @@
 <br />           
 <img align="left" alt="Hyunjae-Park's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J-Bback" />
 </p>
-<br />
-<a href="https://spot-odometer-e7d.notion.site/Hyunjae-Park-9a6ab68efda04e41b4904b38c82004ba"/></a>
