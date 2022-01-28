@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React-Native&logoColor=white"/></a>
 </p>
 <p>
-<img src="https://img.shields.io/static/v1?label=TypeScript&message=TypeScript&color=important"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MobX-df5d14?style=flat-square&logo=MobX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Firebase&logoColor=white"/></a>
