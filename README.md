@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SCSS-DD3A0A?style=flat-square&logo=SCSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=critical"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/></a>
 </p>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MobX-df5d14?style=flat-square&logo=MobX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jest?style=flat-square&logo=Jest&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jest.js-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled%2Dcomponents&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 </p>
