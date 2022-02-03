@@ -28,9 +28,9 @@
 </p>
 
 ## Contact
-<p>
+<!-- <p>
 <a href="https://velog.io/@qwerzxcvss"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a><a/>
-</p>
+</p> -->
 <p>
 <a href="mailto:acepark14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 </p>
