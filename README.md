@@ -6,7 +6,7 @@
 <br />
 **협업**의 가치를 믿고 **함께 성장**하는 문화를 지향합니다.
 <br />
-현재 **Truffle**, **ganache**, **web3.js**를 학습하고 있습니다.
+현재 **web3.js**를 학습하고 있습니다.
 <br />
 **이더리움**, **솔라나**, **클레이튼** 체인에 관심이 있습니다.
 
@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SCSS-DD3A0A?style=flat-square&logo=SCSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=important"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React-Native&logoColor=white"/></a>
 </p>
